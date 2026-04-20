@@ -1,3 +1,7 @@
+<img alt="limen-labs-banner" src="https://github.com/user-attachments/assets/213a15d9-7601-4386-8d3b-06eae5c4fcd2" />
+
+
+
 ## Hi there 👋
 
 <!--
