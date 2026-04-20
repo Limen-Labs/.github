@@ -1,4 +1,4 @@
-<img alt="limen-labs-banner" src="https://github.com/user-attachments/assets/213a15d9-7601-4386-8d3b-06eae5c4fcd2" />
+<img alt="limen-labs-banner_2" src="https://github.com/user-attachments/assets/c18f0116-915b-4bb7-8c9a-00e7a250f600" />
 
 
 
